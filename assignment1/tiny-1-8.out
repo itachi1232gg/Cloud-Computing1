@@ -1,0 +1,12 @@
+Exception in thread "main" runtime.common.MPJRuntimeException: mpjrun cannot find the jar file <.:/usr/local/easybuild/software/mpj/0.44/lib/starter.jar>. Make sure this is the right path.
+	at runtime.starter.MPJRun.processInput(MPJRun.java:578)
+	at runtime.starter.MPJRun.<init>(MPJRun.java:174)
+	at runtime.starter.MPJRun.main(MPJRun.java:1238)
+MPJ Express (0.44) is started in the multicore configuration
+***********************************
+[C2=50, B2=36, C3=15, B3=8, B1=7, C4=7, D4=2, A2=2, A3=2, B4=2, C1=1, D3=1, D5=1, C5=1, A1=0, A4=0]
+***********************************
+[ROW-C=74, ROW-B=53, ROW-D=4, ROW-A=4]
+***********************************
+[COLUMN-2=88, COLUMN-3=26, COLUMN-4=11, COLUMN-1=8, COLUMN-5=2]
+process time： 398ms
